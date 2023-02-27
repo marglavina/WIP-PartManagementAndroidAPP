@@ -1,6 +1,10 @@
 # WIP-PartManagementAndroidAPP
 Part management android aplication<br>
-Edit of brand                           Edit of models                          Edit of parts <br>![1](https://user-images.githubusercontent.com/85121911/221666732-fde84f7b-34a1-47dd-9112-a21300b637b6.gif) ![2](https://user-images.githubusercontent.com/85121911/221666752-783aa93d-430a-477b-a24b-c09ecc6571bf.gif) ![3](https://user-images.githubusercontent.com/85121911/221666763-860fc6f2-4ff9-4182-a1da-876acf3f40f5.gif)
+Colons can be used to align columns.
+
+| Edit of brand | Edit of models | Edit of parts |
+| ------------- |:-------------:| -----:|
+|![1](https://user-images.githubusercontent.com/85121911/221666732-fde84f7b-34a1-47dd-9112-a21300b637b6.gif)| ![2](https://user-images.githubusercontent.com/85121911/221666752-783aa93d-430a-477b-a24b-c09ecc6571bf.gif)| ![3](https://user-images.githubusercontent.com/85121911/221666763-860fc6f2-4ff9-4182-a1da-876acf3f40f5.gif)|
 
 Login screen<br>
 ![cpmlogin](https://user-images.githubusercontent.com/85121911/209006054-c744165e-404d-46d1-b2d0-cce77b284aa6.png)
