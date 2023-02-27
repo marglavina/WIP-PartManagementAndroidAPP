@@ -1,0 +1,19 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".view.SkladisteActivity">
+
+    <!--   <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/idRVCourse"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="DuplicateIds" />-->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/oneCardRV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</RelativeLayout>

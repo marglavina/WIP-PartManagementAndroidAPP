@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".view.SkladisteActivity">
+
+    <!--   <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/idRVCourse"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:ignore="DuplicateIds" />-->
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="372dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="11dp"
+        android:text="Button" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/oneCardRV"
+        android:layout_width="395dp"
+        android:layout_height="match_parent"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="80dp"/>
+
+
+</RelativeLayout>
