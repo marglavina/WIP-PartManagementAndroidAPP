@@ -1,6 +1,5 @@
 # WIP-PartManagementAndroidAPP
 Part management android aplication<br>
-Colons can be used to align columns.
 
 | Edit of brand | Edit of models | Edit of parts |
 | ------------- |:-------------:| -----:|
